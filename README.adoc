@@ -1,4 +1,4 @@
-image:https://robert-sayfullin.npkn.net/sod-personal-git["Segregation of Duties", link="https://confluence.nbnco.net.au.mcas.ms/display/~robertsayfullin/Git+badges"]
+image:https://robert-sayfullin.npkn.net/sod-personal-git?repo=test_sod["Segregation of Duties", link="https://confluence.nbnco.net.au.mcas.ms/display/~robertsayfullin/Git+badges"]
 
 = test_sod
 
