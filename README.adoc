@@ -3,3 +3,5 @@ image:https://robert-sayfullin.npkn.net/sod-personal-git?repo=test_sod["Segregat
 = test_sod
 
 Empty repo to test badge automation
+
+test
